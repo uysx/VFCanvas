@@ -26,5 +26,9 @@ To compile watch faces, you will use the pre-compiled executable **compile_dial.
 
 ---
 
+## Screenshots (Tool is in development)
+<img width="2560" height="1307" alt="Screenshot 2026-11-23 at 16-03-25 VFCanvas" src="https://github.com/user-attachments/assets/594f0740-2869-4c4c-8756-d714eddd2ca6" />
+<img width="2560" height="1307" alt="Screenshot 2026-11-23 at 16-03-36 VFCanvas" src="https://github.com/user-attachments/assets/d55d65c4-7ac4-4e85-bfdd-d31930586693" />
+
 ## License
 GPL-3.0
