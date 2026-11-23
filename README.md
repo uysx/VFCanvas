@@ -4,7 +4,7 @@ VFCanvas is a free open-source alternative to IDO's Watch Face Designer "cn-iwf.
 ---
 
 ## Why Choose VFCanvas
-VFCanvas replaces  IDO's watch face designer (Which required an IDO account) and old, buggy open-source tools (Such as CadranEditor) which required complex SDK or kit installations. Instead of a GUI application, VFCanvas will be a browser app that requires zero installations (*Note: VFCanvas doesn't have watch face compiling; Instead, watch face compilation is be separate and written in C.*).
+VFCanvas replaces  IDO's watch face designer (Which required an IDO account) and old, buggy open-source tools (Such as CadranEditor) which required complex SDK or kit installations. Instead of a GUI application, VFCanvas will be a browser app written in TypeScript that requires zero installations (*Note: VFCanvas doesn't have watch face compiling; Instead, watch face compilation is be separate and written in C.*).
 
 Differences:
 | VFCanvas                  | IDO Watch Face Designer
